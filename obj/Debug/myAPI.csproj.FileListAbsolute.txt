@@ -1,0 +1,16 @@
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\bin\Debug\myAPI.exe.config
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\bin\Debug\myAPI.exe
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\bin\Debug\myAPI.pdb
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.csproj.AssemblyReference.cache
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.csproj.SuggestedBindingRedirects.cache
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.Properties.Resources.resources
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.csproj.GenerateResource.cache
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.csproj.CoreCompileInputs.cache
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.exe
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.pdb
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.Form1.resources
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\bin\Debug\Telerik.WinControls.dll
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\bin\Debug\Telerik.WinControls.UI.dll
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\bin\Debug\TelerikCommon.dll
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\bin\Debug\Telerik.WinControls.xml
+F:\OneDrive\Code\GitHub\reynekec\myAPI\myAPI\obj\Debug\myAPI.csproj.CopyComplete
